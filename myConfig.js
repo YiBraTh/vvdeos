@@ -1,18 +1,16 @@
 let MensajeAd =
-	"​🚨*Promociona lo que desees!*🚨 \n \n" +
-	"	🎁	- Web de afiliados / referidos \n" +
-	"	🤑	- Acortador con AdsTerra \n" +
-	"	📈	- Página con exoclick \n" +
-	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
-	"['Click Aquí🔥'](https://www.amazon.es)"
+	"​🚨*Follow Account OnlyFans Leaked Free*🚨 \n \n" +
+	"	🗺	- 🔥🔥Go Site🔥🔥 \n \n" +
+	"['Click Here🔥'](https://thebookcelebporn.com)"
+	"	🗺	- 🔥🔥Join OnlyFans Photos and Videos HD🔥🔥 \n \n" +
+	"['Click Here🔥'](https://t.me/TheBookCelebPorn)"
+	"	🗺	- 🔥🔥Join OnlyFans Videos HD🔥🔥 \n \n" +
+	"['Click Here🔥'](https://t.me/celebjihadoficial)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
 
-let imagenAd =
-	"https://vilmanunez.com/wp-content/uploads/2018/10/poner-anuncios-publicitarios-gratis.png"
-
-const N_VIDEOS = 10 //MAX 10
+const N_VIDEOS = 3 //MAX 10
 
 const MY_AD = {
 	isActive: true,
@@ -21,34 +19,23 @@ const MY_AD = {
 		ctn: MensajeAd,
 		image: imagenAd,
 		link: {
-			text: "Canal vip ❤",
+			text: "❤🔥WebSite OnlyFans Photos and Videos HD Leaked🔥❤",
 			url: "https://google.com",
 		},
 		linksGroupAd: [
 			[
 				{
-					text: "Web Afiliados / Referidos",
-					url: "https://youtube.com",
+					text: "Join Channel Photos and Videos OnlyFans Leaked HD",
+					url: "https://t.me/TheBookCelebPorn",
 				},
 			],
 			[
 				{
-					text: "Acortador de enlaces",
-					url: "https://facebook.com",
+					text: "Join Channel Videos OnlyFans Leaked HD",
+					url: "https://t.me/celebjihadoficial",
 				},
 			],
-			[
-				{
-					text: "Web con anuncios",
-					url: "https://stripchat.com",
-				},
-			],
-			[
-				{
-					text: "Promociona otro canal",
-					url: "https://tiktok.com",
-				},
-			],
+
 		],
 	},
 }
